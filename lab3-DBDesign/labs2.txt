@@ -1,0 +1,11 @@
+Group members: Lenny, Tony
+
+* for information on the structure of our database, see 'DatabaseDesign.JPG'
+
+Interations:
+
+* for information on the scenarios, see the attached pictures.
+
+Scenario 1: When a customer purchases a ticket online. (Scenario1.JPG)
+Scenario 2: When an employee completes the purchase on the state of the stand. (Scenario2.JPG)
+Scenario 3: When a manager adds/deletes/updates the stand. (Scenario3.JPG)
